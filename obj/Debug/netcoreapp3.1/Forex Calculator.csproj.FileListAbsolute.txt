@@ -11,3 +11,16 @@ C:\Users\Admin\Documents\Visual Studio programming apps\Forex Calculator\Forex C
 C:\Users\Admin\Documents\Visual Studio programming apps\Forex Calculator\Forex Calculator\obj\Debug\netcoreapp3.1\Forex Calculator.dll
 C:\Users\Admin\Documents\Visual Studio programming apps\Forex Calculator\Forex Calculator\obj\Debug\netcoreapp3.1\Forex Calculator.pdb
 C:\Users\Admin\Documents\Visual Studio programming apps\Forex Calculator\Forex Calculator\obj\Debug\netcoreapp3.1\Forex Calculator.genruntimeconfig.cache
+C:\Users\Admin\Documents\Visual Studio programming apps\Forex Calculator\Forex Calc\bin\Debug\netcoreapp3.1\Forex Calculator.exe
+C:\Users\Admin\Documents\Visual Studio programming apps\Forex Calculator\Forex Calc\bin\Debug\netcoreapp3.1\Forex Calculator.deps.json
+C:\Users\Admin\Documents\Visual Studio programming apps\Forex Calculator\Forex Calc\bin\Debug\netcoreapp3.1\Forex Calculator.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio programming apps\Forex Calculator\Forex Calc\bin\Debug\netcoreapp3.1\Forex Calculator.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Visual Studio programming apps\Forex Calculator\Forex Calc\bin\Debug\netcoreapp3.1\Forex Calculator.dll
+C:\Users\Admin\Documents\Visual Studio programming apps\Forex Calculator\Forex Calc\bin\Debug\netcoreapp3.1\Forex Calculator.pdb
+C:\Users\Admin\Documents\Visual Studio programming apps\Forex Calculator\Forex Calc\obj\Debug\netcoreapp3.1\Forex Calculator.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio programming apps\Forex Calculator\Forex Calc\obj\Debug\netcoreapp3.1\Forex Calculator.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio programming apps\Forex Calculator\Forex Calc\obj\Debug\netcoreapp3.1\Forex Calculator.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio programming apps\Forex Calculator\Forex Calc\obj\Debug\netcoreapp3.1\Forex Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio programming apps\Forex Calculator\Forex Calc\obj\Debug\netcoreapp3.1\Forex Calculator.dll
+C:\Users\Admin\Documents\Visual Studio programming apps\Forex Calculator\Forex Calc\obj\Debug\netcoreapp3.1\Forex Calculator.pdb
+C:\Users\Admin\Documents\Visual Studio programming apps\Forex Calculator\Forex Calc\obj\Debug\netcoreapp3.1\Forex Calculator.genruntimeconfig.cache
