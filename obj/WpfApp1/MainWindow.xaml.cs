@@ -22,21 +22,21 @@ namespace WpfApp1
 
     // Custom class
     //Properties
-    public class Lots
-        { 
+     public class Lots
+     { 
          
         //Constructors  
         public double Calc(double LotsTraded ,double rPercentageRisk , double rPipValue , double rSLinPips)
-            {    // Equation to work out Lots & send Lots back to program class   
+        {    // Equation to work out Lots & send Lots back to program class   
                 LotsTraded = rPercentageRisk / (rPipValue * rSLinPips);
                 return  LotsTraded;
-            }
-
-        internal static double Calc(double rPercentageRisk, double rPipValue, double rSLinPips)
-        {
-            throw new NotImplementedException();
         }
-    }
+
+         internal static double Calc(double rPercentageRisk, double rPipValue, double rSLinPips)
+         {
+            throw new NotImplementedException();
+         }
+     }
 
         private void btnCalculate_Click(object sender, RoutedEventArgs e)
         {
@@ -106,9 +106,9 @@ namespace WpfApp1
                     break;
             }
 
-            // Instantiate/Send variables with value to class so the lots can be worked out
+         // Instantiate/Send variables with value to class so the lots can be worked out
             Lots mylots = new Lots();
-        double rLots = Lots.Calc(rPercentageRisk, rPipValue, rSLinPips);
+            double rLots = Lots.Calc(rPercentageRisk, rPipValue, rSLinPips);
             rtbInformation.TextInput = rLots; 
         }
     
